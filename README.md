@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/Aleexm7">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   
- <a href="https://github.com/alexscamg?tab=followers">
+ <a href="https://github.com/Aleexm7?tab=followers">
     <img alt="Follow me" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/JuanJesusAlejoSillero?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow%20Me&logoColor=white"/></a>
 </p>
 
