@@ -27,6 +27,7 @@
   <a href="#">
   <img align="center" height="140"  src="https://github-readme-stats.vercel.app/api?username=Aleexm7&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px">
    </a>
+  <p></p>
   <a href="#">
  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleexm7&theme=tokyonight&border_radius=15px&layout=compact">
   </a>
