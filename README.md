@@ -24,13 +24,13 @@
 
 ### &#x1f4c8; GitHub Stats
 <div style="display: inline_block", align="left">
-  <a href="#">
-  <img align="center" height="140"  src="https://github-readme-stats.vercel.app/api?username=Aleexm7&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px">
-   </a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aleexm7&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Alex's github stats" /></a>
   <p></p>
   <a href="#">
- <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleexm7&theme=tokyonight&border_radius=15px&layout=compact">
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleexm7&theme=react&line_height=40&hide=css">
+   </a>
+  
+  
 </div>
 
 ### :desktop_computer: Favorite Techs
