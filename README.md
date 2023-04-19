@@ -45,6 +45,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css3&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6272a4)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6272a4)
 
 ###### Tools & DevOps
 
