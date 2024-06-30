@@ -2,53 +2,26 @@
 
 <!--   my-header-img -->
 ![](./src/header.png)
+<h1 align="center">Hi there! 👋, I'm Alejandro</h1>
+<h3 align="center">A passionate fullstack developer from Sevilla, Spain</h3>
 
-<h1 align="center" id="macropower-title">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
-  Hi there, I´m Alejandro 👨🏻‍💻
-</h1>
+- 🌱 I’m currently learning **NextJS, React, NodeJS, Astro, ExpressJS**
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=Aleexm7&label=Eres%20el%20visitante%20Nº&color=brightgreen&style=flat" alt="Aleexm7"/>
+- 👨‍💻 All of my projects are available at [https://remarkable-brioche-6c0df2.netlify.app](https://remarkable-brioche-6c0df2.netlify.app)
+
+- 💬 Ask me about **Laravel, PHP, MYSQL, Java, JavaScript...**
+
+- 📫 How to reach me **alejandromunozdominguez@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aleexm7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleexm7" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
- <p align="center">
-  <!-- Linkedin-->
-  <a href="https://www.linkedin.com/in/Aleexm7">
-    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-  
- <a href="https://github.com/Aleexm7?tab=followers">
-    <img alt="Follow me" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/JuanJesusAlejoSillero?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow%20Me&logoColor=white"/></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleexm7&show_icons=true&locale=en&layout=compact" alt="aleexm7" /></p>
 
-### &#x1f4c8; GitHub Stats
-<div style="display: inline_block", align="left">
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aleexm7&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Alex's github stats" /></a>
-  <p></p>
-  <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleexm7&theme=react&line_height=40&hide=css">
-   </a>
-  
-  
-</div>
-
-### :desktop_computer: Favorite Techs
-
-###### Operational Systems
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6272a4)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6272a4)
-
-###### Development
-
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6272a4)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6272a4)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css3&logoColor=white&color=6272a4)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6272a4)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6272a4)
-
-###### Tools & DevOps
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6272a4)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleexm7&show_icons=true&locale=en" alt="aleexm7" /></p>
 
