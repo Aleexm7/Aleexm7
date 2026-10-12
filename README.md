@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **NextJS, React, NodeJS, Astro, ExpressJS**
 
-- 👨‍💻 All of my projects are available at [https://remarkable-brioche-6c0df2.netlify.app](https://remarkable-brioche-6c0df2.netlify.app)
-
 - 💬 Ask me about **Laravel, PHP, MYSQL, Java, JavaScript...**
 
 - 📫 How to reach me **alejandromunozdominguez@gmail.com**
